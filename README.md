@@ -1,6 +1,6 @@
 # Weather App ✨
 
-[**View demo**](https://VaishaliP31.github.io/weather-app/) 
+[**View demo**](https://weather-prediction-app-solidjs.netlify.app/) 
 
 ## Features
 
